@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/relax/static/css/main.8ff001d2.css",
+    "main.js": "/relax/static/js/main.b6be119f.js",
+    "static/js/787.5a29fc84.chunk.js": "/relax/static/js/787.5a29fc84.chunk.js",
+    "index.html": "/relax/index.html",
+    "main.8ff001d2.css.map": "/relax/static/css/main.8ff001d2.css.map",
+    "main.b6be119f.js.map": "/relax/static/js/main.b6be119f.js.map",
+    "787.5a29fc84.chunk.js.map": "/relax/static/js/787.5a29fc84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ff001d2.css",
+    "static/js/main.b6be119f.js"
+  ]
+}
